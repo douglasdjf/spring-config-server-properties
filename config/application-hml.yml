@@ -10,5 +10,5 @@ management:
         - '*' 
   
 greeting-service:
-   greeting: "Olá ambiente HML"
+   greeting: "Olá ambiente HML RefreshScope"
    default-value: "Mundo"
